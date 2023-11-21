@@ -2,4 +2,4 @@
   I love to write code 👩🏻‍💻 and travel ✈️
 
 
-💻 Programming languages and tools:  HTML - CSS - JAVASCRIPT - TYPESCRIPT - ANGULAR -  JAVA - C++ - GIT
+💻 Programming languages and tools:  HTML - CSS - JAVASCRIPT - TYPESCRIPT - JAVA - C++ - GIT - ANGULAR
